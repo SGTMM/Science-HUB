@@ -1,0 +1,12 @@
+{
+  "name": "science-hub",
+  "version": "1.0.0",
+  "private": true,
+  "source": "./index.html",
+  "scripts": {
+    "build": "parcel serve"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
